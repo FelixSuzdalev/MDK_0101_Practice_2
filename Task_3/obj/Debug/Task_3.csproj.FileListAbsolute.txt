@@ -1,0 +1,7 @@
+D:\Проекты VS\MDK_0101_Practice_2\Task_3\bin\Debug\Task_3.exe.config
+D:\Проекты VS\MDK_0101_Practice_2\Task_3\bin\Debug\Task_3.exe
+D:\Проекты VS\MDK_0101_Practice_2\Task_3\bin\Debug\Task_3.pdb
+D:\Проекты VS\MDK_0101_Practice_2\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+D:\Проекты VS\MDK_0101_Practice_2\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+D:\Проекты VS\MDK_0101_Practice_2\Task_3\obj\Debug\Task_3.exe
+D:\Проекты VS\MDK_0101_Practice_2\Task_3\obj\Debug\Task_3.pdb
