@@ -23,7 +23,7 @@ namespace Task_6
             {
                 Console.WriteLine("Ошибка!Вы ничего не ввели :)");
             }
-            Console.Write("\nНажмите Enter для продолжения работы программы...");
+            Console.Write("\nНажмите Enter для продолжения работы программы");
             while (Console.ReadKey().Key == ConsoleKey.Enter)
             {
                 Console.Clear();
